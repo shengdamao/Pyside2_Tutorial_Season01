@@ -10,3 +10,11 @@ pyside 03 学习建立带有输入交互 的组件 ( "LineEdit "）组件， 并
 pyside 04 再次使用信号槽机制，并且 运用了  布局框架“layout"， 向 layout 上 添加小组件 (widget)
 
 pyside 05 同时用到了 垂直布局(VBOXlayout)和水平布局(HBOXlayout， 并且完成了简单的嵌套。（大的水平布局装了2个小的垂直）
+
+pyside 06 详细介绍了 GridLayout 的使用方式 和参数意义。
+
+pyside 07 学习使用MVC， 先做一个基本的 QFileSystemModel 例子，view 用QTreeView 和 QListView各做了一个
+
+pyside 08 使用QStringListModel  和 QListView
+
+pyside 09 使用 QTableView
